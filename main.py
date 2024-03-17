@@ -9,7 +9,7 @@ class Application:
         self.master.title("Calculate")
         self.master.config(padx=5, pady=5)
 
-        # MY font style
+        # My font style
         self.font_style = Font(family="Monospace", size=10)
 
         # Settings and location of the screen
